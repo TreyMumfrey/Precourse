@@ -1,0 +1,21 @@
+ #H1 {
+	color: aqua;
+}
+.Img {
+	width: 400px;
+}
+#thirdDiv {
+	height: 600px;
+	width: 500px;
+	background-color: magenta;
+	padding: 50px;
+	border: 2px dotted green;
+	margin: auto;
+}
+#spanId {
+	font-size: 18px;
+	margin: 50px;
+}
+.divClass {
+	margin: auto;
+}
